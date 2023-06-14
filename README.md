@@ -7,13 +7,15 @@
 
 ```
 Programming Languages: Python, Java, C, C++.
-Web Development: HTML, CSS, JavaScript, Java Server Faces(JSF), Bootstrap, Django, Flask.
+Web Development : ReactJS, HTML, CSS, JavaScript, Java Server Faces (JSF), Bootstrap, Django, Flask
+Mobile Development: Android
 Cloud Technologies: Amazon Web Services, Microsoft Azure.
-Database Platforms: MySQL, SQlite, MongoDB, PostGreSQL.
-Tools: PyCharm, IntelliJIDEA, Eclipse, JDeveloper, SQL Developer, Visual Studio.
-Version Control and Project Management Tools: SVN, GIT, Maven, Ant.
-OS: Windows, Linux 
+Databases: MySQL, SQlite, MongoDB, PostGreSQL.
 Unit Test Frameworks: Junit, unittest.
+Container Orchestration : Docker
+Operating System and Tools : Windows, Linux, Postman, PyCharm, Eclipse, JDeveloper, SQL Developer, IntelliJ IDEA, Visual Studio, Android Studio
+Version Control and Project Management Tools : SVN, GIT, Maven, Ant, Gradle
+
 ```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshcloud&label=Profile%20views&color=0e75b6&style=flat" alt="darshcloud" /> </p>
