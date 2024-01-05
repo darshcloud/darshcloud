@@ -9,10 +9,10 @@
 Programming Languages: Python, Java, C, C++.
 Web Development : ReactJS, HTML, CSS, JavaScript, Java Server Faces (JSF), Bootstrap, Django, Flask
 Mobile Development: Android
-Cloud Technologies: Amazon Web Services, Microsoft Azure.
+Cloud Technologies: Amazon Web Services, Microsoft Azure, GCP.
 Databases: MySQL, SQlite, MongoDB, PostGreSQL.
 Unit Test Frameworks: Junit, unittest.
-Container Orchestration : Docker
+Container Orchestration : Docker, Kubernetes
 Operating System and Tools : Windows, Linux, Postman, PyCharm, Eclipse, JDeveloper, SQL Developer, IntelliJ IDEA, Visual Studio, Android Studio
 Version Control and Project Management Tools : SVN, GIT, Maven, Ant, Gradle
 
