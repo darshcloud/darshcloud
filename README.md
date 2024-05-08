@@ -6,15 +6,16 @@
 **Skill Set**
 
 ```
-Programming Languages: Python, Java, C, C++.
-Web Development : ReactJS, HTML, CSS, JavaScript, Java Server Faces (JSF), Bootstrap, Django, Flask
+Programming Languages: Java, C, C++, Python
+Proficient skills: Core Java, J2EE, REST Services
+Web Development: ReactJS, Node.js, HTML, CSS, JavaScript, Java Server Faces (JSF), Bootstrap, Django, Flask, REST, Streamlit
 Mobile Development: Android
-Cloud Technologies: Amazon Web Services, Microsoft Azure, GCP.
-Databases: MySQL, SQlite, MongoDB, PostGreSQL.
-Unit Test Frameworks: Junit, unittest.
-Container Orchestration : Docker, Kubernetes
-Operating System and Tools : Windows, Linux, Postman, PyCharm, Eclipse, JDeveloper, SQL Developer, IntelliJ IDEA, Visual Studio, Android Studio
-Version Control and Project Management Tools : SVN, GIT, Maven, Ant, Gradle
+Data Analysis: NumPy, Pandas
+Cloud Technologies: Amazon Web Services, Microsoft Azure, Google Cloud Platform
+Databases: MySQL, MongoDB, SQLite, PostgreSQL
+Container Orchestration: Docker, Kubernetes
+Operating System and Tools: Windows, Linux, Postman, PyCharm, Eclipse, JDeveloper, SQL Developer, IntelliJ IDEA, WebStorm, Visual Studio, Android Studio
+Version Control and Project Management Tools: SVN, GIT, Maven, Ant, Gradle
 
 ```
 
