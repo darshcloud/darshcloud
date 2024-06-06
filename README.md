@@ -1,20 +1,20 @@
 <h1 align="left">Hi 👋, I'm Darshini</h1>
-<p align="left">I am a Graduate Student. Currently pursuing my Master's in Software Engineering at San Jose State University.</p>
+<p align="left">I am a Software Engineering Graduate with a specialization in Cloud and Mobile Computing from San Jose State University.</p>
 
 📫 How to reach me **darshini.vn@gmail.com**
 
 **Skill Set**
 
 ```
-Programming Languages: Java, C, C++, Python
-Proficient skills: Core Java, J2EE, REST Services
-Web Development: ReactJS, Node.js, HTML, CSS, JavaScript, Java Server Faces (JSF), Bootstrap, Django, Flask, REST, Streamlit
+Programming Languages: Java-J2EE, C, C++, Python
+Web Development: ReactJS, Node.js, Express, HTML, XHTML, CSS, JavaScript, Spring MVC, Java Server Faces, JSP, Bootstrap, Django, Flask, REST Services, Streamlit
 Mobile Development: Android
 Data Analysis: NumPy, Pandas
 Cloud Technologies: Amazon Web Services, Microsoft Azure, Google Cloud Platform
 Databases: MySQL, MongoDB, SQLite, PostgreSQL
 Container Orchestration: Docker, Kubernetes
-Operating System and Tools: Windows, Linux, Postman, PyCharm, Eclipse, JDeveloper, SQL Developer, IntelliJ IDEA, WebStorm, Visual Studio, Android Studio
+Operating System: Windows, Linux
+Tools: Postman, PyCharm, Eclipse, JDeveloper, SQL Developer, IntelliJ IDEA, WebStorm, Visual Studio, Android Studio
 Version Control and Project Management Tools: SVN, GIT, Maven, Ant, Gradle
 
 ```
