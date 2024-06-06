@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Darshini</h1>
-<p align="left">I am a Software Engineering Graduate with a specialization in Cloud and Mobile Computing from San Jose State University.</p>
+<p align="left">I am a Software Engineering Graduate with a Specialization in Cloud and Mobile Computing from San Jose State University.</p>
 
 📫 How to reach me **darshini.vn@gmail.com**
 
