@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Darshini</h1>
-<p align="left">I am a Software Engineering Graduate with a Specialization in Cloud and Mobile Computing from San Jose State University.</p>
+<p align="left">I am a Software Engineer with 4 years of industry experience in designing and developing enterprise applications, software engineering graduate from San Jose State University and a passionate coder with strong problem-solving skills and a keen interest in software and application development. I thrive in environments where I can learn and grow, continuously seeking opportunities to expand my knowledge and expertise. Always open to taking on new responsibilities, I am dedicated to honing my skills and embracing new challenges. My enthusiasm for coding and developing innovative solutions makes me a reliable and driven team player. I'm excited to connect and explore opportunities where I can contribute and make a positive impact.</p>
 
 📫 How to reach me **darshini.vn@gmail.com**
 
