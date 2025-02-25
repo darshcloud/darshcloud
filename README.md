@@ -3,28 +3,19 @@
 
 📫 How to reach me **darshini.vn@gmail.com**
 
-**Skill Set**
+## Skill Set
 
-```
-Programming Languages: Java-J2EE, C, C++, Python
-Web and Mobile Development: ReactJS, Node.js, Express, HTML, XHTML, CSS, JavaScript, Spring MVC,
-Java Server Faces, JSP, Bootstrap, Django, Android, Flask, REST, Streamlit
-Machine Learning & Data Analysis: Scikit-learn, PyTorch, NumPy, Pandas, Matplotlib
-Cloud Services: Amazon Web Services, Microsoft Azure, Google Cloud Platform
-Databases: MySQL, MongoDB, SQLite, PostgreSQL
-Operating Systems: Windows, Linux
-CI/CD & Container Orchestration: Jenkins, Docker, Kubernetes
-Tools: Postman, PyCharm, Eclipse, JDeveloper, SQL Developer, IntelliJ IDEA, WebStorm, Visual Studio, Android Studio
-Version Control and Project Management Tools: SVN, GIT, Maven, Ant, Gradle
-
-```
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshcloud&label=Profile%20views&color=0e75b6&style=flat" alt="darshcloud" /> </p>
+**Programming Languages:** Java-J2EE, C, C++, Python <br/>
+**Web and Mobile Development:** ReactJS, Node.js, Express, HTML, XHTML, CSS, JavaScript, Spring MVC, Java Server Faces, JSP, Bootstrap, Django, Android, Flask, REST, Streamlit <br/>
+**Machine Learning & Data Analysis:** Scikit-learn, PyTorch, NumPy, Pandas, Matplotlib <br/>
+**Cloud Services:** Amazon Web Services, Microsoft Azure, Google Cloud Platform <br/>
+**Databases:** MySQL, MongoDB, SQLite, PostgreSQL <br/>
+**Operating Systems:** Windows, Linux <br/>
+**CI/CD & Container Orchestration:** Jenkins, Docker, Kubernetes <br/>
+**Tools:** Postman, PyCharm, Eclipse, JDeveloper, SQL Developer, IntelliJ IDEA, WebStorm, Visual Studio, Android Studio <br/>
+**Version Control and Project Management Tools:** SVN, GIT, Maven, Ant, Gradle <br/>
 
 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshcloud&show_icons=true&locale=en&layout=compact" alt="darshcloud" /></p>
 <!--
 **darshcloud/darshcloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
