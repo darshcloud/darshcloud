@@ -7,13 +7,13 @@
 
 ```
 Programming Languages: Java-J2EE, C, C++, Python
-Web Development: ReactJS, Node.js, Express, HTML, XHTML, CSS, JavaScript, Spring MVC, Java Server Faces, JSP, Bootstrap, Django, Flask, REST Services, Streamlit
-Mobile Development: Android
+Web and Mobile Development: ReactJS, Node.js, Express, HTML, XHTML, CSS, JavaScript, Spring MVC,
+Java Server Faces, JSP, Bootstrap, Django, Android, Flask, REST, Streamlit
 Machine Learning & Data Analysis: Scikit-learn, PyTorch, NumPy, Pandas, Matplotlib
-Cloud Technologies: Amazon Web Services, Microsoft Azure, Google Cloud Platform
+Cloud Services: Amazon Web Services, Microsoft Azure, Google Cloud Platform
 Databases: MySQL, MongoDB, SQLite, PostgreSQL
+Operating Systems: Windows, Linux
 CI/CD & Container Orchestration: Jenkins, Docker, Kubernetes
-Operating System: Windows, Linux
 Tools: Postman, PyCharm, Eclipse, JDeveloper, SQL Developer, IntelliJ IDEA, WebStorm, Visual Studio, Android Studio
 Version Control and Project Management Tools: SVN, GIT, Maven, Ant, Gradle
 
