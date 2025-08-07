@@ -1,13 +1,11 @@
 <h1 align="left">Hi 👋, I'm Darshini</h1>
 <p align="left">Experienced Software Engineer with industry experience in Designing and Developing Enterprise Applications, and a Software Engineering Graduate with a specialization in Cloud and Mobile Computing from San Jose State University. 
 
-A passionate coder with strong problem-solving skills and a keen interest in software and application development. I thrive in environments where I can learn and grow, continuously seeking opportunities to expand my knowledge and expertise. Always open to taking on new responsibilities, I am dedicated to honing my skills and embracing new challenges. My enthusiasm for coding and developing innovative solutions makes me a reliable and driven team player. I'm excited to connect and explore opportunities where I can contribute and make a positive impact.</p>
-
 📫 How to reach me **darshini.vn@gmail.com**
 
 ## Skill Set
 
-**Programming Languages:** Java-J2EE, C, C++, Python <br/>
+**Programming Languages:** Java-J2EE, C++, Python <br/>
 **Web and Mobile Development:** ReactJS, Node.js, Express, HTML, XHTML, CSS, JavaScript, Spring MVC, Java Server Faces, JSP, Bootstrap, Django, Android, Flask, REST, Streamlit <br/>
 **Machine Learning & Data Analysis:** Scikit-learn, PyTorch, NumPy, Pandas, Matplotlib <br/>
 **NLP Technologies:** RAG, Large Language Models, Embedding Models
