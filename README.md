@@ -7,8 +7,8 @@
 
 **Programming Languages:** Java-J2EE, C++, Python <br/>
 **Web and Mobile Development:** ReactJS, Node.js, Express, HTML, XHTML, CSS, JavaScript, Spring MVC, Java Server Faces, JSP, Bootstrap, Django, Android, Flask, REST, Streamlit <br/>
-**Machine Learning & Data Analysis:** Scikit-learn, PyTorch, NumPy, Pandas, Matplotlib <br/>
-**NLP Technologies:** RAG, Large Language Models, Embedding Models
+**Data Analysis:** NumPy, Pandas, Matplotlib <br/>
+**NLP Technologies / GenAI:** RAG, Large Language Models, Embedding Models
 **Cloud Services:** Amazon Web Services, Microsoft Azure, Google Cloud Platform <br/>
 **Databases:** MySQL, MongoDB, SQLite, PostgreSQL <br/>
 **Operating Systems:** Windows, Linux <br/>
